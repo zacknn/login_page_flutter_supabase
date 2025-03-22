@@ -10,6 +10,8 @@ A simple Flutter login page integrated with Supabase for authentication.
 ---
 
 ## 🛠️ Setup Guide
+## ⚠️ **first** !! 
+create a flutter project then delete the lib folder
 
 ### 1️⃣ **Clone the Repository**
 ```bash
