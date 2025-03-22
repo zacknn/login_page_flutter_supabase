@@ -17,7 +17,9 @@ git clone https://github.com/zacknn/login_page_flutter_supabase.git
 cd login_page_flutter_supabase
 ```
 ## 2️⃣ **Install Dependencies**
+```bash
 -flutter pub get
+```
 ## 3️⃣ **Set Up Environment Variables**
 
 Create a .env file in the root of your project and add your Supabase credentials:
